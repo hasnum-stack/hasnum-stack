@@ -1,4 +1,10 @@
-### Hi there 👋
+<img src="./assets/1703138455936.gif" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ComicMono&pause=1000&random=false&width=435&lines=%3CHelloCoders+%2F%3E)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnum-stack&hide=html,css,less,scss,pug&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **hasnum-stack/hasnum-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
