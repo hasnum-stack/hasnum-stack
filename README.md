@@ -30,13 +30,9 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="./assets/1703138455936.gif"  />
-</div>
+<img height="550" src="./assets/1703138455936.gif"  />
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/hasnum-stack/hasnum-stack/output/snake.svg" alt="Snake animation" />
 
